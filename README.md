@@ -1,7 +1,7 @@
 # Transaction Management Backend 
 
-## This was a test executed to provide a transaction Management mechanism from a environment where data races occurs.
-## Please note that **ALL RELEVANT CODE, is in the `implementation` branch** and a proper pull request describes technical decisions and challenges.
+### This was a test executed to provide a transaction Management mechanism from a environment where data races occurs.
+## Please note that **ALL RELEVANT CODE, is in the [`implementation` branch](https://github.com/gabriel-viviani/transaction-management/pull/1#pullrequestreview-938472408)** and a proper pull request describes technical decisions and challenges.
 
 Your task is to **build a backend app** that **fulfills the Transaction Management API **make the provided API tests pass**.
 
